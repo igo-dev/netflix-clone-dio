@@ -1,11 +1,13 @@
 
-for (let i = 0; i < imgCount ; i++) {
-    SetItem(`/images-tall1/images/image${i}.png`, '#netflixExclusivo');
-    SetItem(`/images-regular1/images/image${i}.png`, '#recomendadoPraVoce');
-    SetItem(`/images-regular2/images/image${i}.png`, '#continueAssistindo');
-    SetItem(`/images-regular3/images/image${i}.png`, '#filmes');
-    SetItem(`/images-regular4/images/image${i}.png`, '#series');
-    SetItem(`/images-tall2/images/image${i}.png`, '#novidades');
+for (let i = 0; i <= 17 ; i++) {
+
+    SetItem(`/images/images-tall1/image${i}.png`, '#netflixExclusivo');
+    SetItem(`/images/images-regular1/image${i}.png`, '#recomendadoPraVoce');
+    SetItem(`/images/images-regular2/image${i}.png`, '#continueAssistindo');
+    SetItem(`/images/images-regular3/image${i}.png`, '#filmes');
+    SetItem(`/images/images-regular4/image${i}.png`, '#series');
+    SetItem(`/images/images-tall2/image${i}.png`, '#novidades');
+    
 }
 
 function SetItem(path, carouselId){

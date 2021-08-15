@@ -1,9 +1,11 @@
 # DIO | Netflix-Clone
 
 Mais um projeto da DIO.<br>
-Clonando a interface(só a home) da netflix usando HTML, CSS e ele... Vanilla Javascript. 🤢
+Clonando a interface(só a home) da netflix usando HTML, CSS e ele... Vanilla Javascript. 🤢<br>
 
-### Telas testadas
+### [Link do projeto online.](https://igo-dev.github.io/netflix-clone-dio/)
+
+### Telas testadas:
 Small | Medium| Large
 :---:|:---:|:---:
 ✅|⬜️|✅
